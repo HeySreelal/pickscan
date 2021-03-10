@@ -1,0 +1,6 @@
+package owl.learnabit.pickscan
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
